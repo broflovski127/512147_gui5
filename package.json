@@ -1,0 +1,17 @@
+{
+  "name": "mecw",
+  "version": "1.0.0",
+  "description": "SOMIT's Mobile Event Capture Workbench",
+  "main": "index.html",
+  "scripts": {
+    "embuild": "grunt"
+  },
+  "author": "EMIT",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-openui5": "^0.7.0"
+  }
+}
+ 
