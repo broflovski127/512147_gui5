@@ -10,7 +10,8 @@ module.exports = function(grunt) {
                         cwd: 'WebContent',
                         prefix: 'sap/ags/exxon/somit'
                     },
-                    dest: 'dist'
+                    dest: 'dist',
+	       compress : false
                 },
                 components: true
             }
